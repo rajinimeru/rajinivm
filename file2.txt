@@ -1,2 +1,3 @@
 need to create newfile
 okay
+I'm modifying file2 in branch2
