@@ -1,3 +1,5 @@
 need to create newfile
 okay
 This is branch1
+I'm modifying file2 in branch2
+Example for merge conflicts
